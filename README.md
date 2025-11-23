@@ -7,7 +7,7 @@
 ## 🇻🇳 PERSONAL INFORMATION 🇻🇳
 
 <p align="center">
-  <img src="https://i.imgur.com/kP1d6G9.gif" alt="Vietnam Flag Animated" width="400"/>
+  <img src="https://github.com/kkirru/github-profile-assets/blob/main/vietnam_flag.gif?raw=true" alt="Vietnam Flag Animated" width="400"/>
 </p>
 
 * 👤 **Name:** kkirru
@@ -49,5 +49,5 @@
 ## ❤️ Thank you for visiting!
 
 <p align="center">
-  <img src="https://i.imgur.com/kP1d6G9.gif" width="100"/>
+  <img src="https://github.com/kkirru/github-profile-assets/blob/main/vietnam_flag.gif?raw=true" width="100"/>
 </p>
