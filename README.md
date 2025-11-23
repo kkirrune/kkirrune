@@ -10,19 +10,14 @@
   
   <br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="150" alt="Vietnam Flag Animated"/>
-  <br/>
+  <br/><br/>
 
-  <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; width: 50%; margin: 20px auto; color: white; text-align: left;">
-    <h3 align="center" style="color: #00d8fa; margin-top: 0;">[ USER DATA PROFILE ]</h3>
-    
-    <img src="https://geps.dev/progress/100?color=0012fa&background=1a1a1a" alt="Loading Bar" width="100%" style="opacity: 0.3; margin-bottom: 10px;"/>
-    
-    <p style="margin-bottom: 8px;">
-      <span style="color: #00d8fa;">&gt; </span> 👤 <b>Username:</b> kkirrun <br>
-      <span style="color: #00d8fa;">&gt; </span> 🎂 <b>Age:</b> 14 <br>
-      <span style="color: #00d8fa;">&gt; </span> 📍 <b>Location:</b> Ha Noi City, Vietnam 🇻🇳 <br>
-    </p>
-  </div>
+  <p style="color: #00d8fa; font-weight: bold; font-size: 1.2em;">[ USER DATA PROFILE ]</p>
+  <p>
+    <span style="color: #00d8fa;">&gt; </span> 👤 <b>Username:</b> kkirrun <br/>
+    <span style="color: #00d8fa;">&gt; </span> 🎂 <b>Age:</b> 14 <br/>
+    <span style="color: #00d8fa;">&gt; </span> 📍 <b>Location:</b> Ha Noi City, Vietnam 🇻🇳 <br/>
+  </p>
 </div>
 
 ---
