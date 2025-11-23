@@ -77,7 +77,7 @@
   
   <br/> <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=ff0000&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kkirru&label=Profile%20Views&color=ff0000&style=flat-square" alt="Profile Views"/>
 
 </div>
 
