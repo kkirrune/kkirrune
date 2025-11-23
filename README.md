@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=900&lines=Hello!+Welcome+To+Profile;A+Proud+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome !"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=630&size=40&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=900&lines=Hello!+Welcome+To+Profile;A+Proud+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome+to+my+creative+space!"/>
 </p>
 
 <div align="center">
@@ -30,21 +30,33 @@
 
 ### 🚀 SKILLS PROFICIENCY
 
-
-<p align="left">
-  <b>📜 Lua Scripting</b><br/>
-  <img src="https://geps.dev/progress/80?color=00aaff&shield=true" alt="Lua" width="15%"/> <b>80%</b>
-</p>
-
-<p align="left">
-  <b>🐍 Python </b><br/>
-  <img src="https://geps.dev/progress/45?color=00aaff&shield=true" alt="Python" width="70%"/> <b>25%</b>
-</p>
-
-<p align="left">
-  <b>🌐 HTML5 / Web Design</b><br/>
-  <img src="https://geps.dev/progress/60?color=00aaff&shield=true" alt="HTML5" width="70%"/> <b>26%</b>
-</p>
+<div style="background-color: #24292e; padding: 15px; border-radius: 10px;">
+  <p style="color: #fff;">
+    <b>HTML</b>
+    <img src="https://raw.githubusercontent.com/kkirru/github-profile-assets/main/progress_bar/html_70.gif" alt="HTML 70%" width="100px" style="vertical-align: middle; margin-left: 10px;"/>
+    <span style="color: #00aaff; font-weight: bold; margin-left: 5px;">22%</span>
+  </p>
+  <p style="color: #fff;">
+    <b>CSS</b>
+    <img src="https://raw.githubusercontent.com/kkirru/github-profile-assets/main/progress_bar/css_40.gif" alt="CSS 40%" width="100px" style="vertical-align: middle; margin-left: 10px;"/>
+    <span style="color: #00aaff; font-weight: bold; margin-left: 5px;">10%</span>
+  </p>
+  <p style="color: #fff;">
+    <b>JavaScript</b>
+    <img src="https://raw.githubusercontent.com/kkirru/github-profile-assets/main/progress_bar/javascript_45.gif" alt="JavaScript 45%" width="100px" style="vertical-align: middle; margin-left: 10px;"/>
+    <span style="color: #00aaff; font-weight: bold; margin-left: 5px;">20%</span>
+  </p>
+  <p style="color: #fff;">
+    <b>Python</b>
+    <img src="https://raw.githubusercontent.com/kkirru/github-profile-assets/main/progress_bar/python_75.gif" alt="Python 75%" width="100px" style="vertical-align: middle; margin-left: 10px;"/>
+    <span style="color: #00aaff; font-weight: bold; margin-left: 5px;">30%</span>
+  </p>
+  <p style="color: #fff;">
+    <b>Lua</b>
+    <img src="https://raw.githubusercontent.com/kkirru/github-profile-assets/main/progress_bar/lua_80.gif" alt="Lua 80%" width="100px" style="vertical-align: middle; margin-left: 10px;"/>
+    <span style="color: #00aaff; font-weight: bold; margin-left: 5px;">23%</span>
+  </p>
+</div>
 
 ---
 
