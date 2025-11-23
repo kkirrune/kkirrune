@@ -30,25 +30,19 @@
 
 ### 🚀 SKILLS PROFICIENCY
 
-<div style="background-color: #151515; padding: 20px; border-radius: 10px; color: white;">
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua%20Scripting-23%25-blue?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20Basic-30%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5%20%2F%20Web-25%25-blue?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-  <p style="margin-bottom: 5px;">
-
-  <p style="margin-bottom: 5px;">
-    <b>📜 Lua Scripting</b> <span style="float: right; color: #00aaff; font-weight: bold;">23%</span>
-    <img src="https://geps.dev/progress/80?color=00aaff&background=151515" alt="Lua Scripting 80%" width="100%"/>
-  </p>
-
-  <p style="margin-bottom: 5px;">
-    <b>🐍 Python</b> <span style="float: right; color: #00aaff; font-weight: bold;">3%</span>
-    <img src="https://geps.dev/progress/75?color=00aaff&background=151515" alt="Python 75%" width="100%"/>
-  </p>
-
-  <p>
-    <b>🌐 HTML5 / Web Design</b> <span style="float: right; color: #00aaff; font-weight: bold;">25%</span>
-    <img src="https://geps.dev/progress/60?color=00aaff&background=151515" alt="HTML5 60%" width="100%"/>
-  </p>
+<div align="center">
+  <br>
+  <i>⭐ Hướng dẫn: Để chỉnh phần trăm, bạn chỉ cần sửa số trong đường link: Ví dụ, sửa `90%` trong link thành `75%`:</i>
+  <br>
+  <code>.../badge/Roblox%20Studio-<b>75%</b>-blue?style=...</code>
 </div>
+
 ---
 
 ### 🌟 INSPIRATIONAL QUOTES
