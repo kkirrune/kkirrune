@@ -6,19 +6,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00d8fa&center=true&vCenter=true&width=700&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!"/>
 </p>
 
-<div align="center">
-  
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="150" alt="Vietnam Flag Animated"/>
-  <br/><br/>
+---
 
-  <p style="color: #00d8fa; font-weight: bold; font-size: 1.2em;">[ USER PROFILE ]</p>
-  <p>
-    <span style="color: #00d8fa;">&gt; </span> 👤 <b>Username:</b> kkirrune <br/>
-    <span style="color: #00d8fa;">&gt; </span> 🎂 <b>Age:</b> 14 <br/>
-    <span style="color: #00d8fa;">&gt; </span> 📍 <b>Location:</b> Ha Noi City, Vietnam 🇻🇳 <br/>
-  </p>
+###  Used Profile
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">✨ Attribute</th>
+        <th align="center">💻 Detail</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> Name / kkirru</td>
+        <td>kkirru</td>
+      </tr>
+      <tr>
+        <td> Age</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>📍 Location</td>
+        <td>Ha Noi City, Vietnam 🇻🇳</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+<br/>
 
 ---
 
