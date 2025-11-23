@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d8fa,0012fa&height=150&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞&fontSize=50&fontAlignY=40&desc=Vietnamese%20Developer%20VN&descAlignY=65&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d8fa,0012fa&height=150&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞&fontSize=50&fontAlignY=40&desc=Vietnamese%20Developer%20VN&descAlignY=65&descSize=15&fontColor=00d8fa&descColor=DA251D" width="100%"/>
 </div>
 
 <p align="center">
@@ -8,31 +8,10 @@
 
 ---
 
-###  Used Profile
+### -- Profile Information --
 
 <div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">✨ Attribute</th>
-        <th align="center">💻 Detail</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td> Name / kkirru</td>
-        <td>kkirru</td>
-      </tr>
-      <tr>
-        <td> Age</td>
-        <td>14</td>
-      </tr>
-      <tr>
-        <td>📍 Location</td>
-        <td>Ha Noi City, Vietnam 🇻🇳</td>
-      </tr>
-    </tbody>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1000&color=00d8fa&center=true&vCenter=true&width=500&lines=%3E+%F0%9F%91%A4+Name:+kkirru;%3E+%F0%9F%8E%82+Age:+14;%3E+%F0%9F%93%8D+Location:+Ha+Noi+City,+Vietnam+%F0%9F%87%BB%F0%9F%87%B3"/>
 </div>
 <br/>
 
