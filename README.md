@@ -31,8 +31,7 @@
 ### 🚀 SKILLS PROFICIENCY
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Roblox%20Studio-90%25-000000?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua%20Scripting-80%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua%20Scripting-20%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
 <div align="center">
