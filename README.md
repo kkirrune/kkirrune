@@ -38,7 +38,7 @@
 
 <div align="center">
   <br>
-  <i>⭐ Hướng dẫn: Để chỉnh phần trăm, bạn chỉ cần sửa số trong đường link: Ví dụ, sửa `90%` trong link thành `75%`:</i>
+  <i>⭐ Not very fluent, hope you understand </i>
   <br>
   <code>.../badge/Roblox%20Studio-<b>75%</b>-blue?style=...</code>
 </div>
