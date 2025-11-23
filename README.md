@@ -40,7 +40,7 @@
   <br>
   <i>⭐ Not very fluent, hope you understand </i>
   <br>
-  <code>.../badge/Roblox%20Studio-<b>75%</b>-blue?style=...</code>
+  <code> -- Code -- </code>
 </div>
 
 ---
