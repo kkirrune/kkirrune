@@ -3,9 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Vietnamese+Developer+VN&font=Fira+Code&size=20&weight=600&color=FFD700&background=00000000&center=true&vCenter=true&width=400&height=40&duration=1&pause=1&repeat=false&multiline=false&gradient=FF0000;FFD700" alt="Vietnamese Developer VN"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&weight=600&color=FFD700&background=00000000&center=true&vCenter=true&width=400&height=40&lines=Vietnamese%20Developer%20VN&gradient=FF0000;FFD700&duration=1&pause=1&repeat=false&multiline=false"/>
 </p>
 
 <p align="center">
@@ -17,11 +15,10 @@
 ### -- Profile Information --
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=0012fa&center=true&vCenter=true&width=500&height=100&lines=👤+Name:+kkirru;🎂+Age:+14;📍+Location:+Ha+Noi+City,+Vietnam+🇻🇳"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1500&pause=500&color=0012fa&center=true&vCenter=true&width=500&height=100&lines=👤+Name:+kkirru;🎂+Age:+14;📍+Location:+Ha+Noi+City,+Vietnam+🇻🇳"/>
 </div>
 <br/>
 
----
 
 <div align="center">
   <h3>Loading your awesome profile...</h3>
