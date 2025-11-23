@@ -12,9 +12,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="150" alt="Vietnam Flag Animated"/>
   <br/><br/>
 
-  <p style="color: #00d8fa; font-weight: bold; font-size: 1.2em;">[ USER DATA PROFILE ]</p>
+  <p style="color: #00d8fa; font-weight: bold; font-size: 1.2em;">[ USER PROFILE ]</p>
   <p>
-    <span style="color: #00d8fa;">&gt; </span> 👤 <b>Username:</b> kkirrun <br/>
+    <span style="color: #00d8fa;">&gt; </span> 👤 <b>Username:</b> kkirrune <br/>
     <span style="color: #00d8fa;">&gt; </span> 🎂 <b>Age:</b> 14 <br/>
     <span style="color: #00d8fa;">&gt; </span> 📍 <b>Location:</b> Ha Noi City, Vietnam 🇻🇳 <br/>
   </p>
