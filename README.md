@@ -7,7 +7,7 @@
 ## 🇻🇳 PERSONAL INFORMATION 🇻🇳
 
 <p align="center">
-  <img src="https://i.imgur.com/gK2R0mR.jpg" alt="Vietnam Flag" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZzM3o5NGo3czczMGJ2a251b3R5cW1jNWc4azM4b2gyenNrbDdkcyZlcD12MV9pbnRlcm5hbF9naWZfY2F0YWxvZyZjdD1n/xTka007G3A3eM0e1gY/giphy.gif" alt="Vietnam Flag Animated" width="400"/>
 </p>
 
 * 👤 **Name:** kkirru
@@ -30,7 +30,7 @@
 ## 🌟 INSPIRATIONAL QUOTES
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=450&lines=Love+of+country+is+like+every+heartbeat!;Vietnamese+Developers+are+always+on+top!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=450&lines=Love+of+country+is+like+every+heartbeat!;Vietnamese+Developers+are+always+on+top!"/>
 </p>
 
 <p align="center">
@@ -42,7 +42,6 @@
 
 ## 🤝 SOCIALS & CONTACT
 
-* 🌐 **Website/Portfolio:** [https://yourwebsite.com](https://yourwebsite.com)
 * 💬 **Discord:** [kkirru's community](https://discord.gg/yourInviteLink)
 * 📧 **Email:** [duonghoangkkirru138dz@gmail.com](mailto:duonghoangkkirru138dz@gmail.com)
 
@@ -51,5 +50,5 @@
 ## ❤️ Thank you for visiting!
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/11445551079858246399_0" width="100"/>
+  <img src="" width="100"/>
 </p>
