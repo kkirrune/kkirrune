@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=900&lines=Hello! Welcome To Profile
-;A+Proud+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome+to+my+creative+space!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=900&lines=Hello!+Welcome+To+Profile;A+Proud+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome !"/>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=DA251D,FFFF00&height=100&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞
-&fontSize=40&fontAlignY=40&desc=Vietnamese%20Developer%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=65&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=DA251D,FFFF00&height=100&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞&fontSize=40&fontAlignY=40&desc=Vietnamese%20Developer%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=65&descSize=15" width="100%"/>
 </div>
 
 <div align="center">
@@ -32,19 +30,20 @@
 
 ### 🚀 SKILLS PROFICIENCY
 
+
 <p align="left">
   <b>📜 Lua Scripting</b><br/>
-  <img src="https://geps.dev/progress/80?color=00aaff&shield=true" alt="Lua" width="15%"/>
+  <img src="https://geps.dev/progress/80?color=00aaff&shield=true" alt="Lua" width="15%"/> <b>80%</b>
 </p>
 
 <p align="left">
   <b>🐍 Python </b><br/>
-  <img src="https://geps.dev/progress/45?color=00aaff&shield=true" alt="Python" width="20%"/>
+  <img src="https://geps.dev/progress/45?color=00aaff&shield=true" alt="Python" width="70%"/> <b>25%</b>
 </p>
 
 <p align="left">
   <b>🌐 HTML5 / Web Design</b><br/>
-  <img src="https://geps.dev/progress/60?color=00aaff&shield=true" alt="HTML5" width="22%"/>
+  <img src="https://geps.dev/progress/60?color=00aaff&shield=true" alt="HTML5" width="70%"/> <b>26%</b>
 </p>
 
 ---
