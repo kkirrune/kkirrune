@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d8fa,0012fa&height=150&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞&fontSize=50&fontAlignY=40&desc=Vietnamese%20Developer%20VN&descAlignY=65&descSize=15&fontColor=00d8fa&descColor=DA251D" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=39FF14,00FF00&height=150&section=header&text=kkirrune&fontSize=50&fontAlignY=40&desc=Vietnamese%20Developer%20VN&descAlignY=65&descSize=20&fontColor=0012fa&descColor=DA251D" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00d8fa&center=true&vCenter=true&width=700&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0012fa&center=true&vCenter=true&width=700&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!"/>
 </p>
 
 ---
@@ -11,11 +11,9 @@
 ### -- Profile Information --
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1000&color=00d8fa&center=true&vCenter=true&width=500&lines=%3E+%F0%9F%91%A4+Name:+kkirru;%3E+%F0%9F%8E%82+Age:+14;%3E+%F0%9F%93%8D+Location:+Ha+Noi+City,+Vietnam+%F0%9F%87%BB%F0%9F%87%B3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1000&color=0012fa&center=true&vCenter=true&width=500&lines=%3E+%F0%9F%91%A4+Name:+kkirru;%3E+%F0%9F%8E%82+Age:+14;%3E+%F0%9F%93%8D+Location:+Ha+Noi+City,+Vietnam+%F0%9F%87%BB%F0%9F%87%B3"/>
 </div>
 <br/>
-
----
 
 ### 💡 ABOUT ME
 
