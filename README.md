@@ -1,39 +1,27 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=39FF14,00FF00&height=150&section=header&text=kkirrune&fontSize=50&fontAlignY=40&desc=&fontColor=0012fa" width="100%"/>
   
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vietnamese+Developer+VN&font=Fira+Code&size=25&weight=700&gradient=FFD700;FF0000&center=true&width=500&height=50&duration=1&pause=1&repeat=false&v=final_fix" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vietnamese+Developer+VN&font=Fira+Code&size=25&weight=700&gradient=FFD700;FF0000&center=true&width=500&height=50&duration=1&pause=1&repeat=false&v=gradient_fix_2" />
   
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=0012fa&center=true&width=700&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=0012fa&center=true&width=700&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!&v=welcome_fix_2"/>
 </div>
 
 ---
 
-### -- Profile Information --
+<h3>-- Profile Information --</h3>
 
 <div align="center">
-  <table style="border: none; background-color: transparent;">
-    <tr>
-      <td align="center" style="border: none;">
-        <pre style="background-color: #f0f8ff; color: #0012fa; border: 2px solid #0012fa; border-radius: 10px; padding: 20px; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: bold; text-align: left;">
-👤 Name:     kkirru
-🎂 Age:      14
-📍 Location: Ha Noi City, Vietnam 🇻🇳</pre>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3 style="color: #0012fa;">Loading your awesome profile...</h3>
-  <img src="https://progress-bar.dev/40/?scale=100&title=&width=500&color=0012fa&suffix=%" alt="Loading Bar">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=1500&pause=500&color=0012fa&center=true&multiline=true&width=700&height=100&lines=👤+Name:+kkirru;🎂+Age:+14;📍+Location:+Ha+Noi+City,+Vietnam+🇻🇳&v=profile_fix_3" />
 </div>
 <br/>
 
 ---
+
+<div align="center">
+  <h3>Loading your awesome profile...</h3>
+  <img src="https://progress-bar.dev/40/?scale=100&title=&width=500&color=0012fa&suffix=%&v=loading_fix_2" alt="Loading Bar">
+</div>
+<br/>
 
 ### 💡 ABOUT ME
 
