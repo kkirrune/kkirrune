@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&background=000000&center=true&vCenter=true&width=430&lines=Hello!+I'm+kkirru;A+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome+to+my+profile!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&background=000000&center=true&vCenter=true&width=500&lines=Hello!+I'm+kkirru;A+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome+to+my+profile!"/>
 </p>
 
 ---
@@ -7,7 +7,7 @@
 ## 🇻🇳 PERSONAL INFORMATION 🇻🇳
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZzM3o5NGo3czczMGJ2a251b3R5cW1jNWc4azM4b2gyenNrbDdkcyZlcD12MV9pbnRlcm5hbF9naWZfY2F0YWxvZyZjdD1n/xTka007G3A3eM0e1gY/giphy.gif" alt="Vietnam Flag Animated" width="400"/>
+  <img src="https://github.com/nguoi-bi-an/assets/blob/main/vietnam_flag_hd.gif?raw=true" alt="Vietnam Flag Animated" width="400"/>
 </p>
 
 * 👤 **Name:** kkirru
@@ -30,7 +30,7 @@
 ## 🌟 INSPIRATIONAL QUOTES
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=450&lines=Love+of+country+is+like+every+heartbeat!;Vietnamese+Developers+are+always+on+top!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=550&lines=Love+of+country+is+like+every+heartbeat!;Vietnamese+Developers+are+always+on+top!"/>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 ## 🤝 SOCIALS & CONTACT
 
-* 💬 **Discord:** [kkirru's community](https://discord.gg/yourInviteLink)
+* 💬 **Discord:** [kkirru's community](https://discord.gg/QnZ8MAgDvr)
 * 📧 **Email:** [duonghoangkkirru138dz@gmail.com](mailto:duonghoangkkirru138dz@gmail.com)
 
 ---
@@ -50,5 +50,5 @@
 ## ❤️ Thank you for visiting!
 
 <p align="center">
-  <img src="" width="100"/>
+  <img src="https://github.com/nguoi-bi-an/assets/blob/main/vietnam_flag_hd.gif?raw=true" width="100"/>
 </p>
