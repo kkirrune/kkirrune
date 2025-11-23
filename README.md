@@ -1,14 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=900&lines=Hello!+Welcome+To+Profile;A+Proud+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome+to+my+creative+space!"/>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=DA251D,FFFF00&height=100&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞&fontSize=40&fontAlignY=40&desc=Vietnamese%20Developer%20%F0%9F%87%BB%F0%9F%87%B3&descAlignY=65&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=00aaff,1a1a1a&height=150&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞&fontSize=50&fontAlignY=40&desc=Young Developer | Code Innovator & AI Explorer&descAlignY=65&descSize=15" width="100%"/>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="250" alt="Vietnam Flag Animated"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00aaff&center=true&vCenter=true&width=700&lines=Hello!+Welcome+To+Profile;A+Proud+Vietnamese+Developer+%F0%9F%87BB%F0%9F%87B;Welcome+to+my+creative+space!"/>
+  
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="200" alt="Vietnam Flag Animated"/>
   <br/><br/>
   
   <p>
@@ -17,6 +16,14 @@
     🌍 <b>Location:</b> Ha Noi City, Vietnam 🇻🇳 <br/>
   </p>
 </div>
+
+---
+
+### 💡 ABOUT ME
+
+⚙️ Currently seeking amazing projects to contribute to.<br>
+🎓 Always learning and exploring cutting-edge technologies.<br>
+❤️ "Code with passion, Deploy with pride."
 
 ---
 
