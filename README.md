@@ -30,16 +30,25 @@
 
 ### 🚀 SKILLS PROFICIENCY
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua%20Scripting-20%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-</p>
+<div style="background-color: #151515; padding: 20px; border-radius: 10px; color: white;">
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkirru&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&langs_count=5&border_color=ff0000" alt="Top Languages" />
+  <p style="margin-bottom: 5px;">
+
+  <p style="margin-bottom: 5px;">
+    <b>📜 Lua Scripting</b> <span style="float: right; color: #00aaff; font-weight: bold;">23%</span>
+    <img src="https://geps.dev/progress/80?color=00aaff&background=151515" alt="Lua Scripting 80%" width="100%"/>
+  </p>
+
+  <p style="margin-bottom: 5px;">
+    <b>🐍 Python</b> <span style="float: right; color: #00aaff; font-weight: bold;">3%</span>
+    <img src="https://geps.dev/progress/75?color=00aaff&background=151515" alt="Python 75%" width="100%"/>
+  </p>
+
+  <p>
+    <b>🌐 HTML5 / Web Design</b> <span style="float: right; color: #00aaff; font-weight: bold;">25%</span>
+    <img src="https://geps.dev/progress/60?color=00aaff&background=151515" alt="HTML5 60%" width="100%"/>
+  </p>
 </div>
-
-<br>
-
 ---
 
 ### 🌟 INSPIRATIONAL QUOTES
