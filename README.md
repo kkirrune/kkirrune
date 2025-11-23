@@ -17,8 +17,7 @@
   <p>
     👤 <b>Name:</b> kkirru <br/>
     🎂 <b>Age:</b> 14 <br/>
-    🌍 <b>Location:</b> Ho Chi Minh City, Vietnam 🇻🇳 <br/>
-    🔥 <b>Passion:</b> Coding · Innovation · AI
+    🌍 <b>Location:</b> Ha Noi City, Vietnam 🇻🇳 <br/>
   </p>
 
 </div>
@@ -60,7 +59,7 @@
 ### 🤝 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://discord.gg/yourInviteLink">
+  <a href="https://discord.gg/QnZ8MAgDvr">
     <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:duonghoangkkirru138dz@gmail.com">
@@ -73,7 +72,7 @@
 <div align="center">
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="40" style="margin-right: 10px;"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=400&lines=THANK+YOU+FOR+VISITING!;CAM+ON+BAN+DA+GHE+THAM!;VIETNAM+VO+DICH!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=400&lines=THANK+YOU+FOR+VISITING!;Thank+You+For+Visiting;VIỆT+NAM+MUÔN+NĂM"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="40" style="margin-left: 10px;"/>
   
   <br/> <br/>
