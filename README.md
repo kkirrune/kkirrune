@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=630&size=40&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=900&lines=Hello!+Welcome+To+Profile;A+Proud+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome+to+my+creative+space!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=DA251D&center=true&vCenter=true&width=900&lines=Hello!+Welcome+To+Profile;A+Proud+Vietnamese+Developer+%F0%9F%87%BB%F0%9F%87%B3;Welcome+to+my+creative+space!"/>
 </p>
 
 <div align="center">
@@ -28,28 +28,18 @@
 
 ---
 
-
 ### 🚀 SKILLS PROFICIENCY
 
-<p align="left">
-  <b>🛠️ Roblox Studio / Game Dev</b><br/>
-  <img src="https://geps.dev/progress/90?color=00aaff" alt="Roblox Studio" width="70%"/> <b>90%</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/Roblox%20Studio-90%25-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua%20Scripting-80%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
-<p align="left">
-  <b>📜 Lua Scripting</b><br/>
-  <img src="https://geps.dev/progress/80?color=00aaff" alt="Lua" width="70%"/> <b>80%</b>
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkirru&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&langs_count=5&border_color=ff0000" alt="Top Languages" />
+</div>
 
-<p align="left">
-  <b>🐍 Python</b><br/>
-  <img src="https://geps.dev/progress/45?color=00aaff" alt="Python" width="70%"/> <b>45%</b>
-</p>
-
-<p align="left">
-  <b>🌐 HTML5 / Web Design</b><br/>
-  <img src="https://geps.dev/progress/60?color=00aaff" alt="HTML5" width="70%"/> <b>60%</b>
-</p>
+<br>
 
 ---
 
