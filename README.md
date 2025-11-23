@@ -1,20 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=00aaff,1a1a1a&height=150&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞&fontSize=50&fontAlignY=40&desc=Young Developer | Code Innovator & AI Explorer&descAlignY=65&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d8fa,0012fa&height=150&section=header&text=𝐤𝐤𝐢𝐫𝐫𝐮𝐧𝐞&fontSize=50&fontAlignY=40&desc=Vietnamese%20Developer%20VN&descAlignY=65&descSize=15" width="100%"/>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00d8fa&center=true&vCenter=true&width=700&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!"/>
+</p>
+
 <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00aaff&center=true&vCenter=true&width=700&lines=Hello!+Welcome+To+Profile;A+Proud+Vietnamese+Developer+%F0%9F%87BB%F0%9F%87B;Welcome+to+my+creative+space!"/>
   
   <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="200" alt="Vietnam Flag Animated"/>
-  <br/><br/>
-  
-  <p>
-    👤 <b>Name:</b> kkirru <br/>
-    🎂 <b>Age:</b> 14 <br/>
-    🌍 <b>Location:</b> Ha Noi City, Vietnam 🇻🇳 <br/>
-  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Vietnam.gif" width="150" alt="Vietnam Flag Animated"/>
+  <br/>
+
+  <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; width: 50%; margin: 20px auto; color: white; text-align: left;">
+    <h3 align="center" style="color: #00d8fa; margin-top: 0;">[ USER DATA PROFILE ]</h3>
+    
+    <img src="https://geps.dev/progress/100?color=0012fa&background=1a1a1a" alt="Loading Bar" width="100%" style="opacity: 0.3; margin-bottom: 10px;"/>
+    
+    <p style="margin-bottom: 8px;">
+      <span style="color: #00d8fa;">&gt; </span> 👤 <b>Username:</b> kkirrun <br>
+      <span style="color: #00d8fa;">&gt; </span> 🎂 <b>Age:</b> 14 <br>
+      <span style="color: #00d8fa;">&gt; </span> 📍 <b>Location:</b> Ha Noi City, Vietnam 🇻🇳 <br>
+    </p>
+  </div>
 </div>
 
 ---
