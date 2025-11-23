@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=39FF14,00FF00&height=150&section=header&text=kkirrune&fontSize=50&fontAlignY=40&desc=Vietnamese%20Developer%20VN&descAlignY=65&descSize=20&fontColor=0012fa&descColor=DA251D" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=39FF14,00FF00&height=150&section=header&text=kkirrune&fontSize=50&fontAlignY=40&desc=&fontColor=0012fa" width="100%"/>
 </div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Vietnamese+Developer+VN&font=Fira+Code&size=20&weight=600&color=FFD700&background=00000000&center=true&vCenter=true&width=400&height=40&duration=1&pause=1&repeat=false&multiline=false&gradient=FF0000;FFD700" alt="Vietnamese Developer VN"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0012fa&center=true&vCenter=true&width=700&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!"/>
@@ -11,7 +17,15 @@
 ### -- Profile Information --
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=1000&color=0012fa&center=true&vCenter=true&width=500&lines=%3E+%F0%9F%91%A4+Name:+kkirru;%3E+%F0%9F%8E%82+Age:+14;%3E+%F0%9F%93%8D+Location:+Ha+Noi+City,+Vietnam+%F0%9F%87%BB%F0%9F%87%B3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=0012fa&center=true&vCenter=true&width=500&height=100&lines=👤+Name:+kkirru;🎂+Age:+14;📍+Location:+Ha+Noi+City,+Vietnam+🇻🇳"/>
+</div>
+<br/>
+
+---
+
+<div align="center">
+  <h3>Loading your awesome profile...</h3>
+  <img src="https://progress-bar.dev/40/?scale=100&title=&width=500&color=0012fa&suffix=%" alt="Loading Bar">
 </div>
 <br/>
 
