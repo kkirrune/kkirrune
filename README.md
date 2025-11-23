@@ -1,7 +1,7 @@
 ## Welcome To Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 ---
@@ -11,18 +11,25 @@
 - 👤 **Name:** kkirru
 - 🎂 **Age:** 14
 - 🌍 **Location:** Viet Nam 🇻🇳
-- ❤️ **Passion:** Coding · Innovation · AI
 
 ---
 
-## 🎨 Aesthetic Coding Vibes
+## 🎨 Aesthetic Vibes
 
 <p align="center">
-  <img src="https://i.imgur.com/IfhQE4b.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpZDh4c3hwdjVxNjhkMzl0ajJqNW5iZjh5bWc5Z2Qyd20zMzY3NSZlcD12MV9pbnRlcm5hbF9naWZfY2F0YWxvZyZjdD1n/qgHWwSj0g0t9XjWc4t/giphy.gif" width="500"/>
 </p>
 
 ---
 
+## 💖 Hobbies & Interests
+
+- 🎮 Playing Roblox & Building Worlds
+- 🎧 Listening to Music & Discovering New Artists
+- 📚 Reading interesting articles & stories
+- 💡 Learning New Things & Exploring Tech
+
+---
 
 ## 🌐 My Top Languages
 
@@ -32,18 +39,18 @@
 
 ---
 
-## 📈 Activity Graph
+## 🚀 My GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 💎 Socials & Contact
 
-- 💬 **Discord:** [kkirru community](https://discord.gg/QnZ8MAgDvr)-
-- 📩 **Email:** [duonghoangkkirru138dz@gmail.com](mailto:duonghoangkkirru138dz@gmail.com)-
+- 💬 **Discord:** [kkirru community](https://discord.gg/QnZ8MAgDvr)
+- 📩 **Email:** [duonghoangkkirru138dz@gmail.com](mailto:duonghoangkkirru138dz@gmail.com)
 
 ---
 
@@ -58,5 +65,5 @@
 ## ❤️ Thank you for visiting!
 
 <p align="center">
-  <img src="https://i.imgur.com/o7NCfDj.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q4ZG02cWdvYTNlNjA1M3R0Njh5aGhkZ3R5NG93MnV3OGpwaG90cyZlcD12MV9pbnRlcm5hbF9naWZfY2F0YWxvZyZjdD1n/SrrJH8FkR1I3w4M94S/giphy.gif" width="300"/>
 </p>
