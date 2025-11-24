@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua%20Scripting-23%25-blue?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20Basic-30%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-30%25-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5%20%2F%20Web-25%25-blue?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
