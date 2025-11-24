@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0012fa,000080&height=150&section=header&text=kkirrune&fontSize=50&fontAlignY=40&desc=&fontColor=0012fa&re=final_fix" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0012fa,000080&height=150&section=header&text=kkirrune&fontSize=50&fontAlignY=40&desc=&fontColor=0012fa&v=final_fix_v6" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vietnamese+Developer+VN&font=Fira+Code&size=25&weight=700&gradient=FFD700;FF0000&center=true&width=600&height=50&duration=1&pause=1&repeat=false&v=final_fix_v2" alt="Vietnamese Developer VN"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vietnamese+Developer+VN&font=Fira+Code&size=25&weight=700&gradient=FFD700;FF0000&center=true&width=600&height=50&duration=1&pause=1&repeat=false&v=final_fix_v6" alt="Vietnamese Developer VN"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=0012fa&center=true&width=900&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!&v=final_fix_v2" alt="Welcome Text"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&color=0012fa&center=true&width=900&lines=Hello!+Welcome+To+Profile;Code+with+passion+and+pride;AI+Explorer+and+Tech+Enthusiast!&v=final_fix_v6" alt="Welcome Text"/>
 </div>
 ---
-### -- Profile Information --
+###  Profile Information 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=1000&pause=1000&color=0012fa&center=true&multiline=true&width=700&height=120&lines=👤+Name:+kkirru;🎂+Age:+14;📍+Location:+Ha+Noi+City,+Vietnam+🇻🇳&separator=;&v=final_fix_v2" alt="Profile Info"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=1000&pause=1000&color=0012fa&center=true&multiline=true&width=700&height=120&lines=👤+Name:+kkirru;🎂+Age:+14;📍+Location:+Ha+Noi+City,+Vietnam+🇻🇳&separator=;&v=final_fix_v6" alt="Profile Info"/>
 </div>
 <br/>
 ---
 <div align="center">
   <h3 style="color: #0012fa;">Loading your awesome profile...</h3>
-  <img src="https://progress-bar.dev/40/?scale=100&title=&width=500&color=0012fa&suffix=%&v=final_fix_v2" alt="Loading Bar">
+  <img src="https://progress-bar.dev/40/?scale=100&title=&width=500&color=0012fa&suffix=%&v=final_fix_v6" alt="Loading Bar">
 </div>
 <br/>
 
