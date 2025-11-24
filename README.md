@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,00BFFF&height=150&section=header&text=kkirrune&fontSize=50&fontAlignY=40&desc=&fontColor=0012fa&re=final_fix" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0012fa,000080&height=150&section=header&text=kkirrune&fontSize=50&fontAlignY=40&desc=&fontColor=0012fa&re=final_fix" width="100%"/>
   
-  <br/>
+  
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Vietnamese+Developer+VN&font=Fira+Code&size=25&weight=700&gradient=FFD700;FF0000&center=true&width=600&height=50&duration=1&pause=1&repeat=false&v=final_fix_v2" alt="Vietnamese Developer VN"/>
   
   <br/>
